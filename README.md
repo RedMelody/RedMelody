@@ -1,5 +1,3 @@
-  Howdy, I'm Andrea. I'm an animator turned programmer as of late December 2020. I was goin in and out of programming events and meetups before then but never cemented until now.
-  
-  I did 2D animation and currently have a certificate of animation, I love working in toonboom, CSP, TVPaint and even traditional paper pencil mediums.
-  
-  I am in search of an Email Developer role and learning certifications to help me understand programs such as Pardot and Salesforce Marketing Cloud.
+Howdy Howdy! I'm Andrea, an animator turned Email Dev! I still make my own animations, and have worked with a digital marketing agency for a year and a half!
+
+I have worked in the salesforce ecosystem for a year and a half and have experience in Marketing Cloud and Salesforce.com
